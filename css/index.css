@@ -1,0 +1,32 @@
+header{
+	height: 80px;
+	width: 100%;
+    background-color:black;
+    color: white;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#icon{
+    font-size:60px;
+    margin-left:20px;
+}
+
+.menu-bar{
+    display:flex;
+    margin-right:15px;
+    font-size:30px;
+}
+
+.menu-bar li{
+    margin-right:30px;
+}
+
+.photo{
+    background-image:url(../img/cafe1.jpeg);
+    background-size:cover;
+    height: 600px;
+    width: 100%;
+    
+}
